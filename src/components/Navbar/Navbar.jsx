@@ -1,11 +1,12 @@
 import React from 'react'
+import { Top } from '../LandingPage/Top'
 import Products from './Products'
 
 export const Navbar = () => {
   return (
     <div>
         <div >
-            {/* <img src="https://vecros.com/static/media/logo.ffda51cadb3fb4901613.png" alt="" /> */}
+            <Top/>
         <Products/>
         </div>
     </div>
