@@ -19,7 +19,7 @@ const Footer = () => {
           <div><img src=''/></div>
       </div>
 
-      <div style={{display:"flex",gap:"100px",margin:"auto",width:"80%"}}>
+      <div style={{display:"flex",gap:"100px",margin:"auto",width:"80%",lineHeight : '20px'}}>
           <div>
             <ul style={{listStyle:"none", textAlign:"left"}} >
               <li>Products</li>
