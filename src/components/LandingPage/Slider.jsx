@@ -49,6 +49,12 @@ export const Slider = () => {
     <div>
         <div >
             <div style={{margin : "auto",width:"65%",marginTop : "50px",marginBottom : "50px"}}>
+                <div style={{textAlign : "center",marginBottom : "30px"}}>
+                <h1 style={{fontSize : "45px",fontWeight : "600"}}>Vecros Cloud Service</h1>
+
+                <p>Connected operations from anywhere in the world</p>
+                </div>
+
             <img src={slideMovie[imageInd]} alt="" height="556px" width="950px" />
 
             </div>
