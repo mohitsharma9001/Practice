@@ -12,6 +12,16 @@ export const Capture = () => {
         fontWeight: "700"
     }
 
+    const h1style = {
+        marginTop: "-3px",
+        fontSize: "45px",
+        fontWeight: "500"
+    }
+    const h2style = {
+        fontSize: "16px",
+        fontWeight: "700"
+    }
+
     return (
         <div >
             <div style={{ display: "flex", justifyContent: "space-around", lineHeight: "30px", padding: "2%" }}>
